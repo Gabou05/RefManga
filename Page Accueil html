@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>site ref-manga</title>
+            <meta charset="utf-8"/>
+            <link rel="stylesheet" href="Style page acceuil.css"/>
+        </head>
+        <body>
+            <h1 class="titre">Réf-Manga</h1>
+            <div id="searchbar">
+                <form action="">
+                  <input class="champ" type="text" placeholder="Viens rechercher ton anime ?"/>
+                  <input class="bouton" type="button" value="Search" />
+                </form>
+            </div>
+            <br>
+            <br>
+            <br>
+             <div class=div2>
+                <p class=shonen2><a href="Site.html" target="_blank">Shonen</a></p>
+                <p class=shojo>Shojo</p>
+                <p class=seinen>Seinen</p>
+                <p class=josei>Josei</p>
+                <p class=kodomo>Kodomo</p>
+            </div> 
+            
+            <u>
+                <li >Action</li>
+                <li>Aventure</li>
+                <li>Comédie</li>
+                <li>Drame</li>
+                <li>Ecchi</li>
+                <li>Fantaisiste</li>
+                <li>Fantastique</li>
+                <li>Harem</li>
+                <li>Horreur</li>
+                <li>Isekai</li>
+                <li>Mecha</li>
+                <li>Mytère</li>
+                 <li>Psychologique</li>
+                <li>Romance</li>
+                <li>Surnaturel</li>
+                <li>Thriller</li>
+                <li>Tranche de vie</li>
+             </u>
+            
+        </body>
+    </html>
