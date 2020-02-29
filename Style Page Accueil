@@ -1,0 +1,64 @@
+.titre{
+    text-align:center;
+    font-size:7em;
+    border-width:20px;
+    border-style:double;
+    border-radius:125px;
+    border-color:red;
+    margin:auto;
+    font-family:monospace;
+    width:70%;
+}
+body {
+color:white;
+background-color:black;
+margin:0;
+}
+#searchbar{
+    position: absolute;
+    width:1040px;
+    height:auto;
+    display:inline-block;
+    text-align:center;
+}
+#searchbar .champ{
+    width:600px;
+    height:35px;
+    float:center;
+}
+#searchbar .bouton{
+    background-image: url(images/searchbar_button.png);
+    width: 50px;
+    height: 35px;
+    padding: 0;
+    border:none;
+    float:center;
+}
+p{
+    display:inline;
+    padding: 110px;
+  }
+.shonen2 {
+    color: blue;
+    font-size:3em;
+}
+.shojo {
+    color:pink;
+    font-size: 3em;
+}
+.seinen {
+    color:grey;
+    font-size: 3em;
+}
+.josei {
+    color:violet;
+    font-size: 3em;
+}
+.kodomo {
+    color:lime;
+    font-size:3em;
+}
+li{
+    width: 300px;
+    padding: 4px 15px;
+}
